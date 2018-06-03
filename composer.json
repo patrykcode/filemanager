@@ -1,5 +1,5 @@
 {
-    "name": "patryk/filemanager",
+    "name": "patrykcode/filemanager",
     "description": "filemanager",
     "type": "library",
     "license": "mit",
@@ -20,7 +20,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "patryk\\filemanager\\": "src/"
+            "patrykcode\\filemanager\\": "src/"
         }
     }
 }
