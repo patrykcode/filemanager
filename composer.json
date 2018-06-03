@@ -18,9 +18,9 @@
     "require": {
 
     },
-    "autoload": {
+    "autoload-dev": {
         "psr-4": {
-            "patryk\\filemanager": "src/"
+            "patryk\\filemanager\\": "src/"
         }
     }
 }
