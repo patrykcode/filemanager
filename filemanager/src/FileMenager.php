@@ -1,6 +1,6 @@
 <?php
 
-namespace Patryk\FileManagerProvider\Src;
+namespace Patryk\FileManager\Src;
 
 use Illuminate\Http\Request;
 
