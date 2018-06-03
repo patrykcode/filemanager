@@ -3,6 +3,12 @@
     "description": "filemanager",
     "type": "library",
     "license": "mit",
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/patrykcode/filemanager"
+        }
+    ],
     "authors": [
         {
             "name": "Patryk Pawlicki",
