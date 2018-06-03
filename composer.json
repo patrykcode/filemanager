@@ -1,0 +1,20 @@
+{
+    "name": "patryk/filemanager",
+    "description": "filemanager",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Patryk Pawlicki",
+            "email": "krspawlicki@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "patryk\\filemanager": "src/"
+        }
+    }
+}
