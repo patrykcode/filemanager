@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Patryk\FileManager\Src;
+namespace Patrykcode\FileManager\Src;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Patryk\FileManager\Src;
+namespace Patrykcode\FileManager\Src;
 
 class DirectorInfo extends AbstractFileMenager {
 
